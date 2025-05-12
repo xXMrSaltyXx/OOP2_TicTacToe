@@ -101,9 +101,10 @@ private int minimax(Board board, int depth, boolean isMaximizing) {
 
 ## Anwendung starten
 
-Um das Spiel zu starten, führen Sie folgenden Befehl aus:
+Um das Spiel auszuprobieren müssen sie mein [Öffentliches Github Repo](https://github.com/xXMrSaltyXx/OOP2_TicTacToe) clonen.
+Dann mit folgenden Befehl ausführen:
 
-```bash
+```bash  
 ./gradlew run
 ```
 
