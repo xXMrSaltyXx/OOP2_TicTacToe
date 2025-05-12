@@ -34,9 +34,6 @@ Der Algorithmus simuliert alle möglichen Spielverläufe und bewertet sie, um de
 
 Der Algorithmus wechselt zwischen Maximieren (für die KI) und Minimieren (für den menschlichen Spieler), daher der Name "Minimax".
 
-![Minimax-Beispiel](https://miro.medium.com/v2/resize:fit:1400/1*XLoMaTyg3TmKEzQzFdxUeg.png)
-*Beispiel eines Entscheidungsbaums für Minimax*
-
 ### Vorteile bei Tic-Tac-Toe
 
 - Eine perfekte Minimax-KI kann nicht verlieren
