@@ -1,0 +1,47 @@
+.root {
+    -fx-background-color: #f0f0f0;
+    -fx-font-family: 'Arial';
+}
+
+.button {
+    -fx-background-color: white;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: #f8f8f8;
+    -fx-border-color: #999999;
+}
+
+.button:pressed {
+    -fx-background-color: #e0e0e0;
+}
+
+.x-move {
+    -fx-text-fill: #3498db;
+    -fx-font-weight: bold;
+}
+
+.o-move {
+    -fx-text-fill: #e74c3c;
+    -fx-font-weight: bold;
+}
+
+#resetButton {
+    -fx-background-color: #3498db;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+}
+
+#resetButton:hover {
+    -fx-background-color: #2980b9;
+}
+
+#resetButton:pressed {
+    -fx-background-color: #1c6ea4;
+}
